@@ -7,7 +7,7 @@ function Home() {
   useEffect(() => {
     const options = 'https://newsapi.org/v2/everything?' +
     'domains=techcrunch.com,washingtonpost.com,msnbc.com,billboard.com,bet.com&' +
-    'apiKey=402afffc99484620ad919c4686e70bbd';
+    'apiKey=2ac7298a8e884547b431a9f0907524ed';
 
 
     fetch(options)
